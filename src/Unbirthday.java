@@ -7,7 +7,9 @@ public static void main(String[] args) {
 	if (day.equals("6/14")) {
 		JOptionPane.showMessageDialog(null, "Happy Birthday");
 	}
-		
+	else {
+		JOptionPane.showMessageDialog(null, "Happy UnBirthday");
+	}		
 	}
 }
 
